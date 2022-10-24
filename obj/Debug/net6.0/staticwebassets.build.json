@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LwyVdDoNoG2nSt93EZPeGZ/DU7K0JSbvLGOkpcA6QZU=",
+  "Source": "plurasight-webapp",
+  "BasePath": "_content/plurasight-webapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
