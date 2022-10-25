@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!Excited with the 1st publish");
+app.MapGet("/", () => "Hi testing the workflow from VS to Azure");
 
 app.Run();
